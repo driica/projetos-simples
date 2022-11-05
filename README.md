@@ -1,2 +1,2 @@
 
-<video src='errorpage.mp4' width=180/>
+![](name-of-giphy.gif)
